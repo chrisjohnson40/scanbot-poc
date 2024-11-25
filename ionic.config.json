@@ -1,0 +1,7 @@
+{
+  "name": "scanbot-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
